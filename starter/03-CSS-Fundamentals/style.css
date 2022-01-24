@@ -70,3 +70,22 @@ li {
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
 }
+
+/* STYLING LINKS: L.V.H.A  = Lucas vai hospitalizar alguém. */
+
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1098ad;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:active {
+  background-color: black;
+}
